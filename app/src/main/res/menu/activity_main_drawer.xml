@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:title="@string/menu_percent" />
+        <item
+            android:id="@+id/nav_increasing"
+            android:title="@string/menu_rise" />
+        <item
+            android:id="@+id/nav_decreasing"
+            android:title="@string/menu_drop" />
+    </group>
+
+    <item android:title="@string/menu_imkb_weight">
+        <menu>
+            <item
+                android:id="@+id/nav_volume30"
+                android:title="@string/menu_imkb_30"
+                />
+            <item
+                android:id="@+id/nav_volume50"
+                android:title="@string/menu_imkb_50" />
+            <item
+                android:id="@+id/nav_volume100"
+                android:title="@string/menu_imkb_100" />
+        </menu>
+    </item>
+
+</menu>

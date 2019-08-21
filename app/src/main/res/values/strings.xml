@@ -1,0 +1,46 @@
+<resources>
+    <!--General-->
+    <string name="app_name">IMKB</string>
+    <string name="veripark">VERİPARK</string>
+    <string name="label_imkb">IMKB Hisse Senetleri/Endeksler</string>
+    <string name="label_activity">IMKB Hisse ve Endeksler</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Main-->
+    <string name="menu_percent">Hisse ve Endeksler</string>
+    <string name="menu_rise">IMKB Yükselenler</string>
+    <string name="menu_drop">IMKB Düşenler</string>
+    <string name="menu_imkb_weight">IMKB Hacme Göre</string>
+    <string name="menu_imkb_30">IMKB-30</string>
+    <string name="menu_imkb_50">IMKB-50</string>
+    <string name="menu_imkb_100">IMKB-100</string>
+
+    <string name="label_symbol">Sembol</string>
+    <string name="label_price">Fiyat</string>
+    <string name="label_difference">Fark</string>
+    <string name="label_volume">Hacim</string>
+    <string name="label_bid">Alış</string>
+    <string name="label_offer">Satış</string>
+    <string name="label_arrow">Değişim</string>
+
+
+    <string name="label_detail_symbole">Sembol :</string>
+    <string name="label_detail_lowest">Günlük Düşük :</string>
+    <string name="label_detail_highest">Günlük Yüksek :</string>
+    <string name="label_detail_difference">% Fark :</string>
+    <string name="label_detail_change">% Değişim :</string>
+    <string name="label_detail_bid">Alış :</string>
+    <string name="label_detail_offer">Satış :</string>
+    <string name="label_detail_volume">Hacim :</string>
+    <string name="label_detail_maximum">Tavan :</string>
+    <string name="label_detail_minimum">Taban :</string>
+    <string name="label_detail_arrow">Değişim :</string>
+    <string name="label_detail_price">Fiyat :</string>
+    <string name="label_detail_count">Adet :</string>
+
+    <string name="error_message">Bir hatayla karşılaşıldı, lütfen tekrar deneyiniz.</string>
+    <string name="no_network_error_message">İnternet bağlantınız bulunmamaktadır.</string>
+
+
+</resources>
